@@ -1,8 +1,8 @@
 site {
   app1 { 'app1name':
     nodes => {
-      Node['avu3r7rajoc7q4c.delivery.puppetlabs.net'] => [App1::Comp1['foo1'], ],
-      Node['iqwh8azwz4gy324.delivery.puppetlabs.net'] => [App1::Comp2['foo2'], ],
+      Node['tdcur0qjj1vmmh5.delivery.puppetlabs.net'] => [App1::Comp1['foo1'], ],
+      Node['yl5le0frhz2a60w.delivery.puppetlabs.net'] => [App1::Comp2['foo2'], ],
     },
   }
 }
