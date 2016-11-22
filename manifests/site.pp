@@ -8,6 +8,6 @@ site {
 }
 
 node default {
-  notify { 'content from master': }
+  notify { 'content from master 2': }
 }
 
