@@ -7,3 +7,7 @@ site {
   }
 }
 
+node default {
+  notify { 'content from master': }
+}
+
