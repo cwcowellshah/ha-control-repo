@@ -7,3 +7,6 @@ site {
   }
 }
 
+node default {
+  notify { 'content  3': }
+}
