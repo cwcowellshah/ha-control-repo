@@ -8,5 +8,5 @@ site {
 }
 
 node default {
-  notify { 'content  4': }
+  notify { 'content  5': }
 }
